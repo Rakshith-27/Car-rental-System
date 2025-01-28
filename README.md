@@ -41,6 +41,15 @@ A user-friendly car rental web application developed using PHP, MySQL, HTML, CSS
 2. **Database**: All booking and car details are stored in the MySQL database.
 3. **Admin Panel**: Admins can manage bookings and car listings via the admin interface.
 
+   ## 📸 Screenshots
+- **Homepage**: Displays the list of available cars.
+  ![image](https://github.com/user-attachments/assets/ce28ebaf-cb30-4768-92d2-5177166f21a9)
+- **Booking Form**: Users can enter their details and confirm bookings.
+  !![image](https://github.com/user-attachments/assets/020ef45a-b6a8-4152-9d84-885d09788579)
+
+- **Admin Panel**: Admins can manage car listings and view bookings.
+ ![image](https://github.com/user-attachments/assets/e0f100b3-fdb3-43e4-be4d-b21c4a8317a4)
+
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
